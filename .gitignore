@@ -87,4 +87,9 @@ GTAGS
 \#*#
 prepVM
 copyToHost
+Image
+zImage
+xipImage
+bootpImage
+uImage
 
