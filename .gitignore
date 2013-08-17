@@ -92,4 +92,5 @@ zImage
 xipImage
 bootpImage
 uImage
+vmlinux
 
